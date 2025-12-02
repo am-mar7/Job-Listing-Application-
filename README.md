@@ -1,9 +1,6 @@
 Job Listing App
-A modern job listing application built with Next.js, React, and Tailwind CSS.
+A modern job listing application built with React, and Tailwind CSS.
 
-Features
-Browse job listings
-View detailed job descriptions
 Screenshots
 Landing Page / Job List
 Landing Page
